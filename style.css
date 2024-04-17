@@ -1,0 +1,16 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.center2 {
+  text-align: center;
+}
+
+button {
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
